@@ -1,0 +1,17 @@
+Here I have listed down all the concepts I have used to complete the project.
+
+DATA STRUCTURES USED: -
+1. Stack
+2. Queue
+3. Graphs
+4. Arrays
+5. Self made class named Node
+
+Concepts used: -
+1. How to check if a graph is Bipartite?
+2. How to check for the connectivity of a Graph?
+3. Run time polymorphism by using vitual keyword
+4. Coloring of vertices in Graph Theory
+5. Using XEvent to take keyboardinputs
+6. OOP concepts
+7. Inheritance

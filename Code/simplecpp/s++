@@ -1,0 +1,2 @@
+#!/bin/sh -x
+g++ $@ -Wall /media/rounak/DATA/data/lectures_and_stuffs/CS293/Graph_Stimulator/Code/simplecpp/lib/libsprite.a -I/media/rounak/DATA/data/lectures_and_stuffs/CS293/Graph_Stimulator/Code/simplecpp/include -I/usr/include/X11 -L/usr/X11R6/lib -lX11 -std=c++11

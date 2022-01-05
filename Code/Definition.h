@@ -1,0 +1,42 @@
+ // Defining different constants
+#define WINDOW_X 1000
+#define WINDOW_Y 1000
+
+#define STEP_TIME 0.05
+
+#define PLAY_X_START 50
+#define PLAY_Y_START 50
+#define PLAY_X_WIDTH (WINDOW_X-100)
+#define PLAY_Y_HEIGHT (WINDOW_Y-100)
+
+#define NODE_X_OFFSET 100
+#define NODE_Y_HEIGHT 100
+#define NODE_BAND_LENGTH NODE_X_OFFSET
+#define NODE_THICKNESS 5
+
+#define COIN_GAP 1
+#define BOMB_GAP 3
+
+#define RELEASE_ANGLE_STEP_DEG 5
+#define MIN_RELEASE_ANGLE_DEG 0
+#define MAX_RELEASE_ANGLE_DEG (360-RELEASE_ANGLE_STEP_DEG)
+#define INIT_RELEASE_ANGLE_DEG 45
+
+#define RELEASE_SPEED_STEP 20
+#define MIN_RELEASE_SPEED 0
+#define MAX_RELEASE_SPEED 200
+#define INIT_RELEASE_SPEED 100
+
+#define COIN_SPEED 120
+#define BOMB_SPEED 180
+#define COIN_ANGLE_DEG 90
+#define LIVES_ANGLE_DEG 0
+#define VERTICAL_ANGLE 5
+
+#define NODE_G 30
+#define COIN_G 30
+#define BOMB_G 70
+
+#define NODE_SIZE 10
+#define NODE_RADIUS 50
+#define COIN_SIZE 5
